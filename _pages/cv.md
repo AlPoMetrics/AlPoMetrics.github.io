@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Economics and Statistics, University of Siena, 2010
-* M.S. in Finance, University of Siena, 2013
-* M.Res. in Econometrics, Universite Libre de Bruxelles, 2014
-* Ph.D in Financial Econometrics, Maastricht University, 2018
 
 Work experience
 ======
@@ -30,6 +24,15 @@ Work experience
   * Scuola Normale Superiore, Pisa
   * Duties included: Research on high-frequency data and related liquidity indicators
   
+
+Education
+======
+
+* Ph.D in Financial Econometrics, Maastricht University, 2018
+* M.Res. in Econometrics, Universite Libre de Bruxelles, 2014
+* M.S. in Finance, University of Siena, 2013
+* B.S. in Economics and Statistics, University of Siena, 2010
+
 
 
 Publications
