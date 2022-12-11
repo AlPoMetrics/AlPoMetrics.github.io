@@ -12,4 +12,4 @@ redirect_from:
 
 
 ###### Disclaimer
-###### The opinions expressed here are mine and mine only. The views expressed here do not reflect those of De Nederlandsche Banks and its committees.
+###### <div style="text-align: justify"> The opinions expressed here are mine and mine only. The views expressed here do not reflect those of De Nederlandsche Banks and its committees. </div>
