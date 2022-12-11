@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Policy Advisor at the Financial Stability Division of the Dutch central bank. My main responsibilities are the development and maintenance of stress testing models to assess potential vulnerabilities of the financial sector. Here you can find both my policy and academic publications. 
+I am a Policy Advisor at the Financial Stability Division of the Dutch central bank. My responsibilities are mainly related to the development of data driven solutions to assess, among other things, potential vulnerabilities of the financial sector. Here you can find both my policy and academic publications. 
 
 
 ###### Disclaimer
-###### The opinions expressed here are mine and mine only. The views expressed here do not necessarily reflect those of De Nederlandsche Banks and its committees.
+###### The opinions expressed here are mine and mine only. The views expressed here do not reflect those of De Nederlandsche Banks and its committees.
