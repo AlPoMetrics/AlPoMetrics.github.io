@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics and Statistics, University of Siena, 2010
+* M.S. in Finance, University of Siena, 2013
+* M.Res. in Econometrics, Universite Libre de Bruxelles, 2014
+* Ph.D in Financial Econometrics, Maastricht University, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2021-Present: __Policy Advisor__
+  * De Nederlandsche Bank, Amsterdam
+  * Duties included: Development of stress testing models
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* November 2018-April 2021: __Model Validator__
+  * ING Bank, Amsterdam
+  * Duties included: Validation of IRRBB models 
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* September 2017-September 2018: __Post-Doctoral Research Fellow__
+  * Scuola Normale Superiore, Pisa
+  * Duties included: Research on high-frequency data and related liquidity indicators
+  
+
 
 Publications
 ======
@@ -42,18 +38,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
