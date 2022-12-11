@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Policy Advisor at the Financial Stability Division of the Dutch central bank. My responsibilities are mainly related to the development of data driven solutions to assess potential vulnerabilities of the financial sector. Here you can find both my policy and academic publications. 
+<div style="text-align: justify">  I am a Policy Advisor at the Financial Stability Division of the Dutch central bank. My responsibilities are mainly related to the development of data driven solutions to assess potential vulnerabilities of the financial sector. Here you can find both my policy and academic publications. </div>
 
 
 ###### Disclaimer
