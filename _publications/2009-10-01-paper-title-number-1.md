@@ -6,7 +6,7 @@ collection: publications
 date: 2019-08-01
 venue: 'Quantitative Finance'
 # paperurl: 'https://www.tandfonline.com/doi/full/10.1080/14697688.2019.1659992'
-authors: 'with G. Buccheri, G. Livieri and D.Pirino'
+authors: with G. Buccheri, G. Livieri and D.Pirino
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
