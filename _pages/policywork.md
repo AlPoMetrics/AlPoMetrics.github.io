@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Policy work"
+title: "Policy"
 permalink: /policywork/
 author_profile: true
 ---
