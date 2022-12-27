@@ -13,4 +13,4 @@ redirect_from:
 \
 \
 \
-__Disclaimer__ : The opinions expressed here are mine and mine only. The views expressed here do not reflect those of De Nederlandsche Bank and its committees.
+__Disclaimer:__  The opinions expressed here are mine and mine only. The views expressed here do not reflect those of De Nederlandsche Bank and its committees.
