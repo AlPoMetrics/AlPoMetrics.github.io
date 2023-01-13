@@ -11,4 +11,5 @@ venue: 'Journal of Empirical Finance'
 ---
 
 with P. Rodrigues, C. Schlag and N. Seeger. 
+[Download published version here](https://www.sciencedirect.com/science/article/pii/S0927539822001049)
 
