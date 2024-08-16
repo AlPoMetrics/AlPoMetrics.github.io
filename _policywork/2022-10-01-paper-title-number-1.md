@@ -10,5 +10,5 @@ venue: 'Financial Stability Review'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-with F. Caloia and R. van der Molen. \
+with F. Caloia and R. van der Molen., pippo \
 [Download published version here](https://www.dnb.nl/media/rpckcxcl/74932-dnb-ofs_en_web_pdfa.pdf)
